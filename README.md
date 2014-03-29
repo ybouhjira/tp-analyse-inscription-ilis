@@ -1,5 +1,6 @@
 # Les structures 
 
+```
 typedef struct etudiant{
   char nom[20];
   char prenom[20];
@@ -18,6 +19,7 @@ typdef struct OptionsDiplome {
   int noteMin;
   float pourcentage;
 }
+```
 
 # Les fichiers
 
@@ -34,6 +36,7 @@ nom2 prenom2 ...
   
 # Conditions
 
+```
 DUT/DEUG/DEUST  ->  nbre_annees = 2;
 LICENSE/MASTER   ->   nbre_annees = 3;
 MAITRISE  ->   nbre_annees = 4;
@@ -45,7 +48,7 @@ LICENSE/MAITRISE/MASTER  ->   2 mentions;
 
 PREPAS  ->   Classement;
 AUTRE  -> Moyenne;
-
+```
 
 
                                 
