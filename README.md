@@ -1,6 +1,6 @@
 # Les structures 
 
-```
+```c
 typedef struct etudiant{
   char nom[20];
   char prenom[20];
