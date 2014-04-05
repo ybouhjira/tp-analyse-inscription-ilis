@@ -50,6 +50,12 @@ PREPAS  ->   Classement;
 AUTRE  -> Moyenne;
 ```
 
+## Pourcentage 
+
+ - CPGE : **30%**
+ - DEUG/DUT/deust **50%**
+ - licence/master/maitrise **20%**
+
 
                                 
   
